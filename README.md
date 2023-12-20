@@ -13,3 +13,4 @@
 ![](https://github.com/dAmp1r/Information_Security_HW_13-03/blob/main/21.png)
 ![](https://github.com/dAmp1r/Information_Security_HW_13-03/blob/main/22.png)
 ![](https://github.com/dAmp1r/Information_Security_HW_13-03/blob/main/23.png)
+![](https://github.com/dAmp1r/Information_Security_HW_13-03/blob/main/24.png)
